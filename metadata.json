@@ -1,0 +1,5 @@
+{
+  "name": "JSON to Excel Converter",
+  "description": "An application to convert JSON data into an Excel spreadsheet. Users can upload a JSON file containing an array of objects, view the data in a table, and export it as an .xlsx file.",
+  "requestFramePermissions": []
+}
